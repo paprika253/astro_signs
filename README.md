@@ -1,3 +1,3 @@
 # astro_signs
-simple app with hash using /n
-just write your date
+Simple app with hash using.
+ Just write your date
